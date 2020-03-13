@@ -8,6 +8,7 @@ The following github repository contains all lecture slides and question sets fo
 - Strings
 - Linked List
 - Recursion/DFS
+- Binary Trees (ongoing)
 
 ## Acknowledgments
 
